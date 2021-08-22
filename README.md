@@ -32,6 +32,7 @@ My team’s greatest strength was our personal chemistry.  I messaged Raina prio
 *Presents a cohesive, three- to four-sentence summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following:*
 
 *Topic addressed*
+
 We aim to answer the following question: when you’re planning a fishing trip, how do you maximize your catch and, more importantly, the bang for your buck when it comes to renting a charter fishing craft?
 
 *Machine module used*
