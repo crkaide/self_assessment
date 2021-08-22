@@ -41,4 +41,4 @@ Using coastal data from NOAA, a balanced random forest classifier, and a compreh
 
 *Results of the analysis*
 
-Turns out that you’re lucky either way.  While sighting a live (or dead) sea turtle is incredibly rare (and, therefore, something to write home about), not sighting one at all leads to more fish per angler—more than a silver lining on a fishing charter.  Our other major conclusion was this:  peak catches occur on charter trips of approx.. 4 hours and approx. 9 hours—so if you don’t want to break the bank, a half-day trip will likely be just as productive as a full day.
+Turns out that you’re lucky either way.  While sighting a live (or dead) sea turtle is incredibly rare (and, therefore, something to write home about), not sighting one at all leads to more fish per angler—more than a silver lining on a fishing charter.  Our other major conclusion was this:  peak catches occur on charter trips of approx. 4 hours and approx. 9 hours—so if you don’t want to break the bank, a half-day trip will likely be just as productive as a full day.
